@@ -37,6 +37,23 @@ table > caption {
     font-weight: bold;
     margin-bottom: 10px;
 }
+.Event-Card {
+    display:inline-block;
+    border: 2px solid rgb(0,0,50);
+    border-radius: 10px;
+    padding: 20px;
+    margin: 20px auto;
+    width: 80%;
+    background-color: lightsteelblue;
+}
+.Event-Card > img {
+    width: 100%;
+    height: auto;
+    border-radius: 2px;
+    float:center;
+    padding:10px;
+    margin:5px;
+}
 
 /*
 FOOTER DESIGN
