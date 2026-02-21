@@ -47,10 +47,14 @@ table > caption {
     background-color: lightsteelblue;
 }
 .Event-Card > img {
+    display:block;
+    width:400px;
+    height:auto;
     border-radius: 20px;
     float:center;
     padding:10px;
     margin:5px;
+    margin-right:10px;
 }
 
 /*
